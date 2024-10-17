@@ -117,9 +117,8 @@ python main.py -w backup
 
 ## Donate
 
-If you think these tools are pretty good, Can you please have a cup of coffee?
-![WeChat](WeChat.png)
-![Alipay](Alipay.png)
+If you think these tools are pretty good, Can you please have a cup of coffee?  
+![Pay-Total](./Pay-Total.png)  
 
 
 ## Contact

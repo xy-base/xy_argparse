@@ -116,10 +116,8 @@ python main.py -w backup
 
 ## 捐赠
 
-如果小伙伴们觉得这些工具还不错的话，能否请咱喝一杯咖啡呢
-<br />
-![微信](WeChat.png)
-![支付宝](Alipay.png)
+如果小伙伴们觉得这些工具还不错的话，能否请咱喝一杯咖啡呢  
+![Pay-Total](./Pay-Total.png)
 
 
 ## 联系方式
