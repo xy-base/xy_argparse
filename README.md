@@ -1,14 +1,14 @@
 # xy_argparse
 
-- zh_CN [简体中文](readme/README_zh_CN.md)
-- zh_TW [繁体中文](readme/README_zh_TW.md)
-- en [English](readme/README_en.md)
+- [简体中文](readme/README_zh_CN.md)
+- [繁体中文](readme/README_zh_TW.md)
+- [English](readme/README_en.md)
 
 
 # 说明
 命令行参数简易工具.
 
-<a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github地址</a>
+<a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github地址</a>  
 <a href="https://gitee.com/xy-base/xy_argparse.git" target="_blank">Gitee地址</a>
 
 ## 安装
@@ -109,8 +109,9 @@ python main.py -w backup
 
 ## 捐赠
 
-如果小伙伴们觉得这些工具还不错的话，能否请咱喝一杯咖啡呢  
-![Pay-Total](./Pay-Total.png)
+如果小伙伴们觉得这些工具还不错的话，能否请咱喝一杯咖啡呢?  
+  
+![Pay-Total](./readme/Pay-Total.png)
 
 ## 联系方式
 
