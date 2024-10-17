@@ -8,8 +8,8 @@
 # 说明
 命令行参数简易工具.
 
-<a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github地址</a>  
-<a href="https://gitee.com/xy-base/xy_argparse.git" target="_blank">Gitee地址</a>
+- <a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github地址</a>  
+- <a href="https://gitee.com/xy-base/xy_argparse.git" target="_blank">Gitee地址</a>
 
 ## 安装
 

@@ -7,8 +7,8 @@
 # 说明
 简单Python控制台输入输出工具封装.
 
-<a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github地址</a>  
-<a href="https://gitee.com/xy-base/xy_argparse.git" target="_blank">Gitee地址</a>
+- <a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github地址</a>  
+- <a href="https://gitee.com/xy-base/xy_argparse.git" target="_blank">Gitee地址</a>
 
 ## 安装
 

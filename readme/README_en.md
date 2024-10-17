@@ -7,8 +7,8 @@
 # Description
 Easy Python console tool wrappers
 
-<a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github</a>  
-<a href="https://gitee.com/xy-base/xy_argparse.git" target="_blank">Gitee</a>
+- <a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github</a>  
+- <a href="https://gitee.com/xy-base/xy_argparse.git" target="_blank">Gitee</a>
 
 ## Install
 
