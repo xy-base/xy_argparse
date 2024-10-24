@@ -1,13 +1,13 @@
 # -*- coding: UTF-8 -*-
-__author__ = "helios"
+__author__ = "余洋"
 __doc__ = "ArgParse"
 """
   * @File    :   ArgParse.py
   * @Time    :   2023/06/06 19:40:37
-  * @Author  :   helios
+  * @Author  :   余洋
   * @Version :   1.0
-  * @Contact :   yuyang.0515@qq.com
-  * @License :   (C)Copyright 2019-2023, Ship of Ocean
+  * @Contact :   yuyangit.0515@qq.com
+  * @License :   (C)Copyright 2019-2024, Ship of Ocean
   * @Desc    :   None
 """
 
