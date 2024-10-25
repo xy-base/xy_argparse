@@ -15,7 +15,6 @@ from argparse import ArgumentParser, Namespace
 import pkg_resources
 from uuid import uuid4
 
-
 class ArgParse:
     identifier: str = uuid4().hex
     __prog = None
