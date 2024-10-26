@@ -15,6 +15,7 @@
 ## 安装
 
 ```bash
+# bash
 pip install xy_argparse
 ```
 
@@ -113,6 +114,7 @@ if __name__ == "__main__":
 
 ##### Shell
 ```bash
+# bash
 python main.py -w backup
 # output backup
 ```
