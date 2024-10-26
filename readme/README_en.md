@@ -5,8 +5,7 @@
 - [English](README_en.md)
 
 # Description
-
-Easy Python console tool wrappers
+Simple tool for command line arguments.
 
 ## Source Code Repositories
 
@@ -113,7 +112,6 @@ if __name__ == "__main__":
     runner.main()
 ```
 
-##### Shell
 ```bash
 # bash
 python main.py -w backup

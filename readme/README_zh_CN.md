@@ -5,7 +5,7 @@
 - [English](README_en.md)
 
 # 说明
-简单Python控制台输入输出工具封装.
+命令行参数简易工具.
 
 ## 源码仓库
 
@@ -112,7 +112,6 @@ if __name__ == "__main__":
     runner.main()
 ```
 
-##### Shell
 ```bash
 # bash
 python main.py -w backup
