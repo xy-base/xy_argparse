@@ -15,6 +15,7 @@ from argparse import ArgumentParser, Namespace
 import pkg_resources
 from uuid import uuid4
 
+
 class ArgParse:
     identifier: str = uuid4().hex
     __prog = None
@@ -71,7 +72,7 @@ class ArgParse:
     def default_parser(self):
         self.parser = ArgumentParser(
             prog=self.prog,
-            description=f"{self.description}\nv{self.version}",
+            description=self.description,
         )
 
     def add_arguments(self):
