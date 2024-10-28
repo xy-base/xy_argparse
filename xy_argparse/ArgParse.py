@@ -30,6 +30,11 @@ class ArgParse:
             pass
         return version
 
+    def quick_default_info(self, module_name=""):
+        version = self.fetch_package_version(module_name)
+        self.prog = f"{module_name}-{version}"
+        self.description = f""">>>>>>>>>>>> {module_name} - v{version} <<<<<<<<<<<<<"""
+
     @property
     def prog(self):
         if isinstance(self.__prog, str) and len(self.__prog) > 0:
