@@ -22,6 +22,14 @@ class ArgParse:
     description = "命令行解析"
     __version = None
 
+    def fetch_package_version(self, package_name="") -> str | None:
+        version = None
+        try:
+            version = pkg_resources.get_distribution(package_name).version
+        except:
+            pass
+        return version
+
     @property
     def prog(self):
         if isinstance(self.__prog, str) and len(self.__prog) > 0:
