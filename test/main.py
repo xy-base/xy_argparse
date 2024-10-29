@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
-__author__ = '余洋'
-__doc__ = 'runner'
-'''
+__author__ = "余洋"
+__doc__ = "runner"
+"""
   * @File    :   runner.py
   * @Time    :   2023/06/06 19:51:47
   * @Author  :   余洋
@@ -9,10 +9,11 @@ __doc__ = 'runner'
   * @Contact :   yuyangit.0515@qq.com
   * @License :   (C)Copyright 2019-2024, Ship of Ocean
   * @Desc    :   None
-'''
+"""
 # main.py
 from argparse import Namespace
 from xy_argparse.ArgParse import ArgParse
+
 
 class Runner(ArgParse):
     work_list = [
@@ -21,10 +22,11 @@ class Runner(ArgParse):
         "install_pack",
         "load",
     ]
+
     @property
     def version(self):
         return "0.0.1"
-    
+
     def __init__(self):
         self.prog = "xy_conda"
         self.description = "conda相关工具"
@@ -32,7 +34,6 @@ class Runner(ArgParse):
     def main(self):
         self.default_parser()
         self.add_arguments()
-        self.parse_arguments()
         if self.work:
             self.run_arguments()
         else:

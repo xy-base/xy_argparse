@@ -44,7 +44,6 @@ class Runner(ArgParse):
     def main(self):
         self.default_parser()
         self.add_arguments()
-        self.parse_arguments()
         if self.work:
             self.run_arguments()
         else:
