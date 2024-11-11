@@ -1,17 +1,16 @@
 # xy_argparse
 
-- [简体中文](../README.md)
-- [繁體中文](README.zh-hant.md)
-- [English](README.en.md)
+| [简体中文](../README.md)         | [繁體中文](./README.zh-hant.md)        |                      [English](./README.en.md)          |
+| ----------- | -------------|---------------------------------------|
 
 # 說明
 命令列參數簡單的工具.
 
 ## 程式碼庫
 
-- <a href="https://github.com/xy-base/xy_argparse.git" target="_blank">Github位址</a>  
-- <a href="https://gitee.com/xy-opensource/xy_argparse.git" target="_blank">Gitee位址</a>  
-- <a href="https://gitcode.com/xy-opensource/xy_argparse.git" target="_blank">GitCode位址</a>  
+| [Github](https://github.com/xy-base/xy_argparse.git)         | [Gitee](https://gitee.com/xy-opensource/xy_argparse.git)        |                      [GitCode](https://gitcode.com/xy-opensource/xy_argparse.git)          |
+| ----------- | -------------|---------------------------------------|
+
 
 ## 安裝
 ```bash
